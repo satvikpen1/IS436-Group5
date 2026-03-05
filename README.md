@@ -6,15 +6,23 @@ Extra feature will be added down the line.
 
 Chat Server Requirements
 --------------------------
-Listen on specified TCP port
-Verify that TCP is within range
-Handles one connection or more
-Communication is supported
-Successful Termination
+-Listen on specified TCP port
+
+-Verify that TCP is within range
+
+-Handles one connection or more
+
+-Communication is supported
+
+-Successful Termination
+
 
 Chat Client Requirements
 -------------------------
-Recieves specified TCP connection
-Can sustain communication with server
-End connection with server upon receiving a command
-Succesful Termination
+-Recieves specified TCP connection
+
+-Can sustain communication with server
+
+-End connection with server upon receiving a command
+
+-Succesful Termination
