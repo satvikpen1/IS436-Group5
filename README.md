@@ -33,7 +33,7 @@ Chat Server Requirements
 
 **-Timestamps**
 
-** -Color**
+**-Color**
 
 
 Chat Client Requirements
