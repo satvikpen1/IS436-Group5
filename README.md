@@ -5,14 +5,16 @@ The application will consist of a Chat Server and Chat client that will be conso
 Extra feature will be added down the line.
 
 **Runnning Requirements**
-Have Python Terminal, miniconda or etc.
+
+_Have Python Terminal, miniconda or etc._
+
 First Run python server.py in the file location or have the full file path with a port number between 1025 and 65535
 
-python server.py 1026 or python C:/Users/User/server.py 1026
+**python server.py 1026 or python C:/Users/User/server.py 1026**
 
 Then run the client server on the same port you have specified
 
-python client.py 1026 or python C:/User/Users/client.py 1026
+**python client.py 1026 or python C:/User/Users/client.py 1026**
 
 
 *Extra Features Emphasized
